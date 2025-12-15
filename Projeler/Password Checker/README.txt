@@ -1,1 +1,0 @@
-exe dosyası dist klasöründedir
